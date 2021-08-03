@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practice 1. C II. S 2\obj\Debug\Practice 1. C II. S 2.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practice 1. C II. S 2\obj\Debug\Practice 1. C II. S 2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practice 1. C II. S 2\bin\Debug\Practice_1.C_II.S_2.exe.config
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practice 1. C II. S 2\bin\Debug\Practice_1.C_II.S_2.exe
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practice 1. C II. S 2\bin\Debug\Practice_1.C_II.S_2.pdb
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practice 1. C II. S 2\obj\Debug\Practice_1.C_II.S_2.exe
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practice 1. C II. S 2\obj\Debug\Practice_1.C_II.S_2.pdb
