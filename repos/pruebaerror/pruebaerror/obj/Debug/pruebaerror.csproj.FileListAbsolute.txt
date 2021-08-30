@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\pruebaerror\pruebaerror\bin\Debug\pruebaerror.exe.config
+C:\Users\LENOVO\source\repos\pruebaerror\pruebaerror\bin\Debug\pruebaerror.exe
+C:\Users\LENOVO\source\repos\pruebaerror\pruebaerror\bin\Debug\pruebaerror.pdb
+C:\Users\LENOVO\source\repos\pruebaerror\pruebaerror\obj\Debug\pruebaerror.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\pruebaerror\pruebaerror\obj\Debug\pruebaerror.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\pruebaerror\pruebaerror\obj\Debug\pruebaerror.exe
+C:\Users\LENOVO\source\repos\pruebaerror\pruebaerror\obj\Debug\pruebaerror.pdb
