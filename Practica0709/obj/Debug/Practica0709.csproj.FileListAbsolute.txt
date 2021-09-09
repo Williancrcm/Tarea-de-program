@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\bin\Debug\Practica0709.exe.config
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\bin\Debug\Practica0709.exe
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\bin\Debug\Practica0709.pdb
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\obj\Debug\Practica0709.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\obj\Debug\Practica0709.Form1.resources
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\obj\Debug\Practica0709.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\obj\Debug\Practica0709.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\obj\Debug\Practica0709.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\obj\Debug\Practica0709.exe
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\obj\Debug\Practica0709.pdb
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Practica0709\obj\Debug\Practica0709.Form2.resources
